@@ -14,5 +14,8 @@ module.exports = {
     mixin: 'select',
     options: require('hof-util-countries')(),
     validate: 'required'
+  },
+  date: {
+    validate: 'required'
   }
 };
