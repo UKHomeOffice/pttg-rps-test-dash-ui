@@ -3,11 +3,11 @@
 const hof = require('hof-form-controller');
 
 module.exports = {
-  name: {
+  nameEmail: {
     validate: 'required',
     minlength: 'required'
   },
-  email: {
+  password: {
     validate: 'required'
   },
   testResults: {
@@ -15,6 +15,4 @@ module.exports = {
     options: require('hof-util-countries')(),
     validate: 'required'
   }
-
-  
 };

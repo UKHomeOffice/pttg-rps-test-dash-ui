@@ -1,5 +1,8 @@
 {
-  "name": {
-    "header": "Personal details"
+  "sign-in": {
+    "header": "Sign in"
+  },
+  "test-results": {
+    "header": "Test results"
   }
 }

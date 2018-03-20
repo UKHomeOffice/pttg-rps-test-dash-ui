@@ -5,11 +5,11 @@ module.exports = {
   baseUrl: '/',
   steps: {
     '/sign-in': {
-      fields: ['name', 'email'],
+      fields: ['nameEmail', 'password'],
       next: '/test-results'
     },
     '/test-results': {
-      fields: ['testResults'],
+      fields: ['date', 'testResults'],
       next: '/confirm'
     },
     '/confirm': {

@@ -1,5 +1,23 @@
 {
-  "name": {
-    "label": "Name"
+  "nameEmail": {
+    "label": "Username or email address",
+    "validation": {
+      "required": "Enter a username or email address"
+    }
+  },
+  "password": {
+    "label": "Password",
+    "validation": {
+      "required": "Enter a valid password"
+    }
+  },
+  "date": {
+    "label": "Date",
+    "validation": {
+      "required": "Enter a valid date"
+    }
+  },
+  "testResults": {
+    "label": "Test results"
   }
 }
