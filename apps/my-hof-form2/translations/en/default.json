@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "name": {
+      "label": "Name"
+    }
+  },
+  "journey": {
+    "header": "My New HOF Service",
+    "phase": "beta"
+  },
+  "pages": {
+    "name": {
+      "header": "Personal details"
+    }
+  }
+}

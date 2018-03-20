@@ -1,0 +1,9 @@
+{
+  "theme": "govuk",
+  "routes": [
+    "./apps/my-hof-form2"
+  ],
+  "session": {
+    "name": "my-hof-form2.hof.sid"
+  }
+}
