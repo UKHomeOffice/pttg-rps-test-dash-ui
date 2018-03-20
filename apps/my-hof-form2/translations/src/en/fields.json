@@ -18,6 +18,7 @@
     }
   },
   "testResults": {
-    "label": "Test results"
+    "label": "Test results",
+    "hint": "What test result would you like to see?"
   }
 }
